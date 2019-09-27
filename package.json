@@ -1,0 +1,12 @@
+{
+  "name": "codenation-challenge",
+  "version": "1.0.0",
+  "description": "Desafio do programa de aceleção",
+  "main": "index.js",
+  "scripts": {
+    "start":"dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Pimentel",
+  "license": "ISC"
+}
