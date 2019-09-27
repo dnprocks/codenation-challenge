@@ -60,10 +60,6 @@ O resultado da requisição vai ser um JSON conforme o exemplo:
 O primeiro passo é você salvar o conteúdo do JSON em um arquivo com o nome **answer.json**,
 que irá usar no restante do desafio.
 
-# TODO
-
-## Formatar o README daqui pra baixo
-
 Você deve usar o número de casas para decifrar o texto e atualizar o arquivo JSON,
 no campo **decifrado**. O próximo passo é gerar um resumo criptográfico do texto decifrado
 usando o algoritmo **sha1** e atualizar novamente o arquivo JSON.
