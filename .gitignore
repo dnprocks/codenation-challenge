@@ -66,9 +66,9 @@ typings/
 package-lock.json
 
 # ignore files in folder foo
-uploads/*
+output/*
 
 # but keep the folder
-!uploads/.gitkeep
+!output/.gitkeep
 
 .DS_Store
