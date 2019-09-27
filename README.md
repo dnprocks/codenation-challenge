@@ -43,7 +43,7 @@ https://api.codenation.dev/v1/challenge/dev-ps/generate-data?token=SEU_TOKEN
 Para encontrar o seu token , acesse a plataforma Codenation, faça o login e a informação
 estará na tela, conforme no exemplo abaixo:
 
-![Preview-Screens](https://github.com/dnprocks/codenation-challenge/assets/token.png)
+![Preview-Screens](https://github.com/dnprocks/codenation-challenge/blob/master/assets/token.png)
 
 O resultado da requisição vai ser um JSON conforme o exemplo:
 
